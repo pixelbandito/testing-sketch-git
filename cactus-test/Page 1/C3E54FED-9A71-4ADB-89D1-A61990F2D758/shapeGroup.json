@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 188,
-    "width": 116.948076923077,
+    "width": 117.2709134615385,
     "x": 249,
     "y": 139
   },
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -34,6 +34,10 @@
     {
       "class": "rectangle",
       "id": "BD7051D0-7D56-475F-8686-9F3D6550BA07"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9EAC6D2-C76C-4E44-BCFD-54851E38117B"
     }
   ],
   "name": "Combined Shape",
